@@ -1,3 +1,6 @@
 Chapter 0 of git story.
 Once upon a time on a dark and stormy night.
 And we pitiful souls were trapped at codefellows staring at the Christmans decorations going up, and it is only Nov 2nd
+
+Chapter 1 (we commit to Committing)
+By Pratchette's Pen i with this thing had spell check
